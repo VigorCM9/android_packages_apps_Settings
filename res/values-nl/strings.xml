@@ -2152,4 +2152,5 @@
     <string name="device_hostname">Hostnaam apparaat</string>
     <string name="status_bar_notif_count_title">Meldingsaantal tonen</string>
     <string name="status_bar_notif_count_summary">Aantal aanwezige meldingen tonen op de statusbalk</string>
+    <string name="accessibility_home_button_answers_call_title">Thuisknop neemt oproep aan</string>
 </resources>
